@@ -81,6 +81,7 @@ h2{
     text-align: center;
 }
 .catalog {
+    text-align: center;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
